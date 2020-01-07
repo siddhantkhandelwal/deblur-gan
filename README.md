@@ -76,6 +76,9 @@ Our model successfully deblurs the images without loss of context and contrast.
     ```bash
     jupyter notebook
     ```
+## Future Prospects
+
+Taking the project forward, some ideas can further be taken up. This includes the use of different networks for the pre-trained weights of the perceptual loss. MobileNetv2, ImageNet or ResNet are just some of the few examples of feature extraction based networks that can be used for the same. Along with that, debluring can be approached with a different perspective using NAS based approaches or other image translatin approaches with CNN based architectures that are encoder decoder based but are much more resource efficient.  
 
 ## Referred Implementation
 
