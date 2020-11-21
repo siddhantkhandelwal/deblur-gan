@@ -1,3 +1,5 @@
+<i>Star the Repository if it helps you :smile:</i>
+
 # DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks
 
 - [Paper](https://arxiv.org/pdf/1711.07064.pdf)
